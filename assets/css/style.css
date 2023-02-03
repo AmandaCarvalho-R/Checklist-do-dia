@@ -1,6 +1,7 @@
 :root {
     --branco: #FFDEAD;
     --azul: #00BFFF;
+    --preto: ##000000;
 }
 
 body {
@@ -19,9 +20,26 @@ body {
     color: var(--branco);
 }
 
+.titulo__tarefa {
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.adicionar {
+    text-align: center;
+}
+
 .adicionar input {
     width: 30%;
     box-sizing:border-box;
+    margin: 0.5em 0 1em;
+    padding: 1em 0.5em;
+    border-radius: 10px;
+    border: 2px solid var(--preto);
     
+}
+
+.adicionar label {
+    display: block;
     
 }
