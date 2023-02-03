@@ -1,20 +1,27 @@
 :root {
-    --rosa: #FFB6C1;
+    --branco: #FFDEAD;
     --azul: #00BFFF;
 }
 
 body {
     background-image: url("../img/background1.png");
     background-repeat: no-repeat;
-    background-color: var(--rosa);
+    background-color: var(--azul);
     background-position-y: 250px;
    
 }
 
-.principal {
+.titulo {
     font-weight: 400;
     font-size: 80px;
     text-align: center;
     margin-top: 30px;
-    color: var(--azul);
+    color: var(--branco);
+}
+
+.adicionar input {
+    width: 30%;
+    box-sizing:border-box;
+    
+    
 }
