@@ -1,7 +1,12 @@
+:root {
+    --rosa: #FFB6C1;
+    --azul: #00BFFF;
+}
+
 body {
     background-image: url("../img/background1.png");
     background-repeat: no-repeat;
-    background-color: #FFB6C1;
+    background-color: var(--rosa);
     background-position-y: 250px;
    
 }
@@ -11,5 +16,5 @@ body {
     font-size: 80px;
     text-align: center;
     margin-top: 30px;
-    color: #00BFFF;
+    color: var(--azul);
 }
