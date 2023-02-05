@@ -49,3 +49,20 @@ body {
     font-size: 20px;
     color: var(--azul);
 }
+
+.lista {
+    font-size: 35px;
+    margin-left: 1000px;
+    border-radius: 10px;
+    border: 10px solid var(--preto);
+}
+
+.item {
+    border-radius: 50%;
+
+    align-items: center;
+    justify-content: center;
+
+
+    font-weight: 400;
+}
