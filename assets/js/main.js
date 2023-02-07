@@ -63,6 +63,7 @@ function botaoDeleta(id) {
 
     elementoBotao.addEventListener("click", function () {
         deletaElemento(this.parentNode, id)
+
     })
 
     return elementoBotao
