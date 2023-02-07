@@ -6,7 +6,7 @@
     Objetivo do projeto
 </h2>
 
-Com este projeto pude colocar em prática como capturar dados passados por um usuário, a utilização de JSON.stringyfy para alteração de valores,salvar dados no localStorage em uma lista de array, alteração de valores do tipo texto para valores javascript com método JSON.parse, utilização do metódo forEach para manter os itens na página mesmo após atualização da página.
+Com este projeto pude colocar em prática como capturar dados passados por um usuário, a utilização de JSON.stringyfy para alteração de valores, salvar dados no localStorage em uma lista de array, alteração de valores do tipo texto para valores javascript com método JSON.parse, utilização do método forEach para manter os itens na página mesmo após atualização da página.
 
 <h2 align="center"> 
     
