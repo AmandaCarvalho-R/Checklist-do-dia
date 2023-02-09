@@ -9,36 +9,36 @@ body {
     background-image: url("../img/background1.png");
     background-repeat: no-repeat;
     background-color: var(--azul);
-    background-position-y: 450px;
+    background-position-y: 28.18rem;
     
    
 }
 
 .titulo {
     font-weight: 400;
-    font-size: 80px;
+    font-size: 5rem;
     text-align: center;
-    margin: 30px 0 30px;
+    margin: 1.87rem 0 1.87rem;
     color: var(--preto);
 }
 
 .titulo__tarefa {
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: 400;
     color: var(--preto);
-    margin-left: 150px;
+    margin-left: 9.37rem;
 
 }
 
 .tarefas__css {
-    font-size: 20px;
+    font-size: 1.25rem;
     
     
 }
 
 .adicionar input {
-    width: 30%;
-    margin: 10px 0 1em;
+    width: 50%;
+    margin: 0.62rem 0 1em;
     padding: 1em 0.5em;
     display: block;
     
@@ -46,22 +46,22 @@ body {
 }
 
 .cadastrar {
-    font-size: 25px;
+    font-size: 1.56rem;
     color: var(--azul);
-    margin-left: 50px;
+    margin-left: 3.12rem;
     
     
 }
 
 .lista {
-    font-size: 35px;
-    margin-left: 1000px;
-    border-radius: 10px;
-    border: 10px inset var(--rose);
+    font-size: 2.18rem;
+    margin-left: 62.5rem;
+    border-radius: 0.62rem;
+    border: 0.62rem inset var(--rose);
 }
 
 .lista {
-    margin: 0 0 0 1000px;
+    margin: 0 0 0 62.5rem;
     padding: 0;
 }
 
@@ -69,20 +69,20 @@ body {
     
     padding: 0.6em 2em;
     background: var(--rose);
-    border-radius: 10px;
+    border-radius: 0.62rem;
     margin: 0 0 1em;
     width: 100%;
     box-sizing: border-box;
     display:block;
     text-align: center;
     gap: 1em;
-    font-size: 30px;
+    font-size: 1.87rem;
     font-weight: 400;
     color: var(--preto);
 }
 
 .titulo__lista {
     text-align: center;
-    padding: 10px;
+    padding: 0.62rem;
 }
 
